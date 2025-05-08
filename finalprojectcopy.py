@@ -565,24 +565,6 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6f030857",
-   "metadata": {},
-   "source": [
-    "### Conclusion\n",
-    "\n",
-    "We have completed our initial mission for Mission Meteor and developed multiple fully functional weather classification models. We began by exploring and refining our dataset, ensuring the data was clean, consistent, and representative. We then trained three classification models:\n",
-    "\n",
-    "- K-Nearest Neighbors (KNN): Simple and neighborhood based but struggles with complex patterns\n",
-    "- Decision Tree : Easy to understand and work with but can't always see the bigger picture\n",
-    "- Random Forest: Our top performer model, combining the power of multiple decision trees to make accurate predictions \n",
-    "\n",
-    "In the end, our Random Forest model stood out, giving us the most reliable results. Even though our models worked well with synthetic data, there is room for growth. Real world weather data can be messy and unpredictable, but that's our next challenge. This is only the beginning, and Mission Meteor is just only getting started.  \n",
-    "\n",
-    "With more data, better features, and more advanced techniques, this project has the potential to become a powerful tool, one that could potentially help mission control make smarter launch decisions, no matter what the forecast says."
-   ]
-  },
-  {
-   "cell_type": "markdown",
    "id": "59412c97",
    "metadata": {},
    "source": [
